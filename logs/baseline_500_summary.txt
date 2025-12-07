@@ -1,0 +1,5 @@
+Baseline Run - 500 steps
+avg_step_time_ms=397.67
+val_loss=4.2519
+peak_memory_MiB=30556
+timestamp: Sun Dec  7 04:39:02 UTC 2025
